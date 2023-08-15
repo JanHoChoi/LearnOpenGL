@@ -1,0 +1,20 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"build": true,
+	},
+	"cmake.configureOnOpen": false,
+	"files.associations": {
+		"*.txt": "cmake",
+		"*.repository": "xml",
+		"new": "cpp",
+		"*.tcc": "cpp",
+		"cstdlib": "cpp",
+		"memory": "cpp"
+	}
+}
